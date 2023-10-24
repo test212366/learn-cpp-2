@@ -1,0 +1,9 @@
+[requires]
+
+cpp-httplib/0.13.3
+
+
+
+[generators]
+
+premake
